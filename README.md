@@ -4,7 +4,7 @@ PyTorch implementation of Soft Actor-Critic (deep reinforcement learning algorit
 starts in a random position.  
 
 ## Prerequisites:
-To run the code, you need to have installed the following libraries/softwares on your system (preferably,Ubuntu or any linux distro):
+To run the code, you need to have installed the following libraries/softwares on your system (preferably Ubuntu or any linux distro):
 * python: Required version >= 3.5. Also, install pip using `sudo apt install python3-pip`. (if your package manager is apt)
 * PyTorch: Recommeded to install via pip. https://pytorch.org/
 * numpy: `pip install numpy`
