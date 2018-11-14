@@ -1,5 +1,5 @@
 # Soft Actor-Critic
-PyTorch implementation of Soft Actor-Critic (deep reinforcement learning algorithm) tested on inverted pendulum swingup problem 
+PyTorch implementation of Soft Actor-Critic (https://arxiv.org/pdf/1801.01290.pdf) (deep reinforcement learning algorithm) tested on inverted pendulum swingup problem 
 (OpenAI gym environment) which is a classic problem in control. The goal is to swing the pendulum up so it stays upright while it 
 starts in a random position. (https://gym.openai.com/envs/Pendulum-v0/)
 
