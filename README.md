@@ -31,7 +31,7 @@ python softac.py
 * [gym_utils.py](https://github.com/kushagra06/SAC/blob/master/gym_utils.py): 
 Some utility functions to get parameters of the gym environment used, e.g. number of states and actions.
 * [model.py](https://github.com/kushagra06/SAC/blob/master/model.py): Deep learning network for the agent. 
-* [replay_buffer.py](https://github.com/kushagra06/SAC/blob/master/replay_buffer.py): A replay buffer to store state-actoin transitions and then randomly sample from it. 
+* [replay_buffer.py](https://github.com/kushagra06/SAC/blob/master/replay_buffer.py): A replay buffer to store state-action transitions and then randomly sample from it. 
 * [softac.ipynb](https://github.com/kushagra06/SAC/blob/master/softac.ipynb): Soft Actor-Critc implementation in a jupyter notebook for testing the code and performing experiments. 
 * [softac.py](https://github.com/kushagra06/SAC/blob/master/softac.py): Implementation of the algorithm for training and testing on the task of inverted pendulum (default). 
 
